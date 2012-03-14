@@ -1,0 +1,14 @@
+.adBox {
+	height:150px;
+	width:350px;
+	border:2px solid #d8d8d8;
+	position:relative;
+	overflow:hidden;
+}
+
+.adBoxSlide {
+	width:350px;
+	height:150px;
+	position:absolute;
+	display:none;
+}
